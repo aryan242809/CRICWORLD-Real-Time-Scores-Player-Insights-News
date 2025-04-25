@@ -1,0 +1,31 @@
+.main{
+    height: 50%;
+    width: 80%;
+    border: 2px solid black;
+    background: white;
+    margin-top: 5rem;
+    margin-left: 9rem;
+    border-radius: 20px;
+}
+
+.det{
+    color: black;
+    margin-left: 2rem;
+    margin-top: 5px;
+}
+.a1{
+    display: flex;
+    margin-top: 1.5rem;
+    margin-left: 3rem;
+}
+
+.imgteam img{
+    height: 60%;
+    width: 50%;
+}
+
+.namess
+{
+    color: black;
+    font-weight: 500;
+}
